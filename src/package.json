@@ -3,8 +3,8 @@
   "private": true,
   "dependencies": {
     "@rails/ujs": "^6.0.3",
-    "@rails/webpacker": "5.1.1",
-    "codemirror": "^5.54.0"
+    "@rails/webpacker": "5.2.1",
+    "codemirror": "^5.57.0"
   },
   "version": "0.1.0",
   "devDependencies": {
